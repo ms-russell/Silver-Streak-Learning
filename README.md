@@ -1,2 +1,2 @@
 # Silver-Streak-Learning
-Demo Version with Dummy Student Data
+Demo Version
